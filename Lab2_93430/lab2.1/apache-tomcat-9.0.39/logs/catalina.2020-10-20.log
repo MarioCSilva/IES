@@ -1,0 +1,137 @@
+20-Oct-2020 09:26:45.272 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.39
+20-Oct-2020 09:26:45.275 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 6 2020 14:11:46 UTC
+20-Oct-2020 09:26:45.276 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.39.0
+20-Oct-2020 09:26:45.276 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+20-Oct-2020 09:26:45.276 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.15.7
+20-Oct-2020 09:26:45.276 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+20-Oct-2020 09:26:45.276 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-11.0.8.jdk/Contents/Home
+20-Oct-2020 09:26:45.276 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.8+10-LTS
+20-Oct-2020 09:26:45.277 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+20-Oct-2020 09:26:45.277 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39
+20-Oct-2020 09:26:45.277 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39
+20-Oct-2020 09:26:45.315 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+20-Oct-2020 09:26:45.316 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+20-Oct-2020 09:26:45.316 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+20-Oct-2020 09:26:45.316 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39/conf/logging.properties
+20-Oct-2020 09:26:45.316 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+20-Oct-2020 09:26:45.316 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+20-Oct-2020 09:26:45.317 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+20-Oct-2020 09:26:45.317 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+20-Oct-2020 09:26:45.317 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+20-Oct-2020 09:26:45.317 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39
+20-Oct-2020 09:26:45.317 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39
+20-Oct-2020 09:26:45.317 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39/temp
+20-Oct-2020 09:26:45.320 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/mario/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+20-Oct-2020 09:26:45.675 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+20-Oct-2020 09:26:45.725 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [654] milliseconds
+20-Oct-2020 09:26:45.778 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+20-Oct-2020 09:26:45.778 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.39]
+20-Oct-2020 09:26:45.787 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39/webapps/docs]
+20-Oct-2020 09:26:46.092 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39/webapps/docs] has finished in [304] ms
+20-Oct-2020 09:26:46.092 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39/webapps/manager]
+20-Oct-2020 09:26:46.137 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39/webapps/manager] has finished in [45] ms
+20-Oct-2020 09:26:46.138 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39/webapps/examples]
+20-Oct-2020 09:26:46.392 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39/webapps/examples] has finished in [253] ms
+20-Oct-2020 09:26:46.392 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39/webapps/ROOT]
+20-Oct-2020 09:26:46.412 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39/webapps/ROOT] has finished in [19] ms
+20-Oct-2020 09:26:46.412 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39/webapps/host-manager]
+20-Oct-2020 09:26:46.439 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39/webapps/host-manager] has finished in [27] ms
+20-Oct-2020 09:26:46.445 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+20-Oct-2020 09:26:46.454 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [728] milliseconds
+20-Oct-2020 09:41:27.055 INFO [Catalina-utility-1] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39/conf/tomcat-users.xml]
+20-Oct-2020 09:41:37.067 INFO [Catalina-utility-2] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39/conf/tomcat-users.xml]
+20-Oct-2020 09:42:09.855 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.39
+20-Oct-2020 09:42:09.859 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 6 2020 14:11:46 UTC
+20-Oct-2020 09:42:09.859 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.39.0
+20-Oct-2020 09:42:09.859 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+20-Oct-2020 09:42:09.860 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.15.7
+20-Oct-2020 09:42:09.860 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+20-Oct-2020 09:42:09.860 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-11.0.8.jdk/Contents/Home
+20-Oct-2020 09:42:09.860 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.8+10-LTS
+20-Oct-2020 09:42:09.860 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+20-Oct-2020 09:42:09.860 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39
+20-Oct-2020 09:42:09.860 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39
+20-Oct-2020 09:42:09.875 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+20-Oct-2020 09:42:09.876 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+20-Oct-2020 09:42:09.876 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+20-Oct-2020 09:42:09.876 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39/conf/logging.properties
+20-Oct-2020 09:42:09.876 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+20-Oct-2020 09:42:09.876 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+20-Oct-2020 09:42:09.876 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+20-Oct-2020 09:42:09.876 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+20-Oct-2020 09:42:09.877 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+20-Oct-2020 09:42:09.877 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39
+20-Oct-2020 09:42:09.877 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39
+20-Oct-2020 09:42:09.877 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39/temp
+20-Oct-2020 09:42:09.879 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/mario/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+20-Oct-2020 09:42:10.268 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+20-Oct-2020 09:42:10.294 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to initialize component [Connector[HTTP/1.1-8080]]
+	org.apache.catalina.LifecycleException: Protocol handler initialization failed
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1042)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.core.StandardService.initInternal(StandardService.java:533)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:1057)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:724)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:746)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+		at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:302)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:472)
+	Caused by: java.net.BindException: Address already in use
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:461)
+		at java.base/sun.nio.ch.Net.bind(Net.java:453)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:227)
+		at java.base/sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:80)
+		at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:228)
+		at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:211)
+		at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1141)
+		at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1154)
+		at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:581)
+		at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:75)
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1039)
+		... 13 more
+20-Oct-2020 09:42:10.296 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [655] milliseconds
+20-Oct-2020 09:42:10.357 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+20-Oct-2020 09:42:10.357 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.39]
+20-Oct-2020 09:42:10.365 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39/webapps/docs]
+20-Oct-2020 09:42:10.650 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39/webapps/docs] has finished in [284] ms
+20-Oct-2020 09:42:10.650 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39/webapps/manager]
+20-Oct-2020 09:42:10.694 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39/webapps/manager] has finished in [44] ms
+20-Oct-2020 09:42:10.694 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39/webapps/examples]
+20-Oct-2020 09:42:10.958 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39/webapps/examples] has finished in [264] ms
+20-Oct-2020 09:42:10.959 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39/webapps/ROOT]
+20-Oct-2020 09:42:10.978 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39/webapps/ROOT] has finished in [19] ms
+20-Oct-2020 09:42:10.979 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39/webapps/host-manager]
+20-Oct-2020 09:42:11.004 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39/webapps/host-manager] has finished in [25] ms
+20-Oct-2020 09:42:11.010 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [713] milliseconds
+20-Oct-2020 09:42:11.015 SEVERE [main] org.apache.catalina.core.StandardServer.await Failed to create server shutdown socket on address [localhost] and port [8005] (base port [8005] and offset [0])
+	java.net.BindException: Address already in use (Bind failed)
+		at java.base/java.net.PlainSocketImpl.socketBind(Native Method)
+		at java.base/java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:436)
+		at java.base/java.net.ServerSocket.bind(ServerSocket.java:381)
+		at java.base/java.net.ServerSocket.<init>(ServerSocket.java:243)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:584)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:864)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:810)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:342)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+20-Oct-2020 09:42:11.015 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+20-Oct-2020 09:42:11.015 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+20-Oct-2020 09:42:11.037 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+20-Oct-2020 09:42:11.037 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+20-Oct-2020 09:52:29.612 INFO [http-nio-8080-exec-17] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39/webapps/webapp-javaee7-1.1.war]
+20-Oct-2020 09:52:29.652 INFO [http-nio-8080-exec-17] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/mario/Desktop/IES/Lab2_93430/lab2.1/apache-tomcat-9.0.39/webapps/webapp-javaee7-1.1.war] has finished in [41] ms
+20-Oct-2020 10:06:21.456 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+20-Oct-2020 10:06:21.456 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+20-Oct-2020 10:06:21.466 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+20-Oct-2020 10:06:21.525 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+20-Oct-2020 10:06:21.570 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

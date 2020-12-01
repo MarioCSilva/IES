@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="424.0" y="145.0">payroll.EmployeeRepository</node>
+    <node x="702.0" y="12.0">org.springframework.data.jpa.repository.JpaRepository</node>
+    <node x="-17.5" y="71.5">payroll.EmployeeController</node>
+    <node x="415.5" y="319.5">payroll.Employee</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="payroll.EmployeeController" target="payroll.EmployeeRepository">
+      <point x="0.0" y="-88.5" />
+      <point x="160.0" y="0.0" />
+      <point x="520.0" y="0.0" />
+      <point x="0.0" y="-15.0" />
+    </edge>
+    <edge source="payroll.EmployeeController" target="payroll.Employee">
+      <point x="0.0" y="88.5" />
+      <point x="160.0" y="480.0" />
+      <point x="-104.5" y="0.0" />
+    </edge>
+    <edge source="payroll.EmployeeRepository" target="payroll.Employee">
+      <point x="0.0" y="15.0" />
+      <point x="0.0" y="-160.5" />
+    </edge>
+    <edge source="payroll.EmployeeRepository" target="org.springframework.data.jpa.repository.JpaRepository">
+      <point x="96.0" y="0.0" />
+      <point x="-138.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Orthogonal" zoom="1.0" x="271.0" y="242.5" />
+  <SelectedNodes>
+    <node>org.springframework.data.jpa.repository.JpaRepository</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
